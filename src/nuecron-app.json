@@ -1,0 +1,19 @@
+{
+  "data": {
+    "app": {
+      "app_id": "4fcf1801-664d-4c49-a7e0-914b45c75a99",
+      "app_name": "anokha-marketplace",
+      "user_id": "b9da2a3b-6976-4e33-9214-9bc054da008f",
+      "app_wallet": "c91db0ef-be5d-47ee-bbdd-68dc1d338c30"
+    },
+    "keys": {
+      "app_id": "4fcf1801-664d-4c49-a7e0-914b45c75a99",
+      "key_id": "Y2ZkNjA3",
+      "secret": "MzQzYWU5YjAtYzAw",
+      "redirect_uri": "",
+      "redirect_failure_uri": ""
+    },
+    "walletID": "c91db0ef-be5d-47ee-bbdd-68dc1d338c30"
+  },
+  "status_code": 200
+}
